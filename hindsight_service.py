@@ -1,4 +1,4 @@
-"""Privacy-aware helpers for the shared RecallHQ Hindsight memory bank."""
+﻿"""Privacy-aware helpers for the shared RecallHQ Hindsight memory bank."""
 
 from __future__ import annotations
 
