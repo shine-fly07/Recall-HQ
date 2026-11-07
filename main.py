@@ -1,4 +1,4 @@
-"""FastAPI application for the RecallHQ Universal Backend."""
+﻿"""FastAPI application for the RecallHQ Universal Backend."""
 
 from __future__ import annotations
 
